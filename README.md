@@ -5,4 +5,4 @@ The work flow of the automation should go as follows:
 
 Note:
 If you intend to use the automomation I made, please change the folder/file names into the names of your own folder/file.
-This project has taken some inspiration from the UIPath Studio Community page.
+This project has taken some inspiration from the UIPath Studio Community.
